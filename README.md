@@ -145,8 +145,8 @@ Dynamic PWM scaling is applied based on speed during normal conditions.
 
 ## 👨‍💻 Author
 
-Hemanth Kumar  
-Electronics and Communication Engineering  
+GOKULNATH S 
+Electronics and Communication Engineering Graduate
 
 ---
 
